@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="question_title">Question</string>
+    <string name="cheat_title">Cheat</string>
+
+    <string name="correct_reply">Correct</string>
+    <string name="incorrect_reply">Incorrect</string>
+
+    <string name="next_button">Next</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="no_button">No</string>
+    <string name="yes_button">Yes</string>
+
+    <string name="empty_answer">\???</string>
+    <string name="empty_reply">\???</string>
+
+    <string name="warning_message">Are you sure?</string>
+
+    <string-array name="quiz_array">
+
+        <item>¿En qué continente se encuentran los Andes?</item>
+        <item>Asia</item>
+        <item>África</item>
+        <item>América del Sur</item>
+        <item>3</item>
+
+        <item>¿Qué país es el segundo más grande del mundo?</item>
+        <item>China</item>
+        <item>Estados Unidos</item>
+        <item>Canadá</item>
+        <item>3</item>
+
+        <item>¿Cómo se llama la tercera isla más grande del mundo?</item>
+        <item>Madagascar</item>
+        <item>Borneo</item>
+        <item>Sumatra</item>
+        <item>2</item>
+
+        <item>¿Qué porcentaje de la superficie de la Tierra no es agua?</item>
+        <item>19 %</item>
+        <item>29 %</item>
+        <item>39 %</item>
+        <item>1</item>
+
+        <item>¿Dónde se encuentra el río Amazonas?</item>
+        <item>Asia</item>
+        <item>América del Sur</item>
+        <item>América del Norte</item>
+        <item>2</item>
+
+        <item>¿A través de que principal ciudad fluye el Támesis?</item>
+        <item>Liverpool</item>
+        <item>Birmingham</item>
+        <item>Londres</item>
+        <item>3</item>
+
+        <item>¿Cuántas personas viven en Canadá?</item>
+        <item>22 millonesr</item>
+        <item>34 millonesr</item>
+        <item>15 millonesr</item>
+        <item>2</item>
+
+        <item>¿A qué altitud se encuentra Bogotá, la capital de Colombia?</item>
+        <item>2640 metros</item>
+        <item>2140 metros</item>
+        <item>1640 metros</item>
+        <item>1</item>
+
+        <item>¿Cómo se llama el río que atraviesa Roma?</item>
+        <item>Tigris</item>
+        <item>Danubio</item>
+        <item>Tiber</item>
+        <item>3</item>
+
+        <item>¿Cuál es el río más largo del mundo?</item>
+        <item>Nilo</item>
+        <item>Amazonas</item>
+        <item>Misisipi</item>
+        <item>1</item>
+
+    </string-array>
+
+</resources>
